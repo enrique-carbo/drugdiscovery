@@ -1,0 +1,4 @@
+mols2grid
+pandas
+streamlit
+rdkit
