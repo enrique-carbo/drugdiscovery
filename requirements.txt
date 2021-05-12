@@ -1,4 +1,6 @@
+Python==3.8.8
 mols2grid
 pandas
 streamlit
+rdkit>=2019.09.1
 
