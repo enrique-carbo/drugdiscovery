@@ -6,6 +6,7 @@ dependencies:
   - pandas=1.2.4=py38h1abd341_0
   - python=3.8.8=hdb3f193_5
   - rdkit=2021.03.1=py38hf8acc3d_0
+  - pip=21.0.1=py38h06a4308_0
   - pip:
     - mols2grid==0.0.5
     - streamlit==0.81.1
